@@ -1,0 +1,28 @@
+{
+  "name": "crypto-mastery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignment1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshag121/crypto-mastery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/harshag121/crypto-mastery/issues"
+  },
+  "homepage": "https://github.com/harshag121/crypto-mastery#readme",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.1",
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.2",
+    "bitcoinjs-lib": "^6.1.7",
+    "crypto-js": "^4.2.0"
+  }
+}

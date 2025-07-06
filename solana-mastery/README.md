@@ -48,6 +48,64 @@ This comprehensive learning path covers Solana development from basics to advanc
 **Decentralized Finance concepts**
 - Token swaps
 - Liquidity pools
+- AMM mechanics
+
+### 6. Advanced Topics (`6-AdvancedTopics/`)
+**Enterprise-level Solana development**
+- Staking and validator economics
+- Governance and voting mechanisms
+- MEV (Maximal Extractable Value)
+- Cross-Program Invocation (CPI)
+- Program Derived Addresses (PDAs)
+- Fee optimization strategies
+
+### 7. Rust Programming (`7-RustProgramming/`)
+**Systems-level blockchain development**
+- Rust ownership and memory safety
+- Solana program architecture
+- State management and serialization
+- Performance optimization
+- Security best practices
+
+### 8. Anchor Framework (`8-AnchorFramework/`)
+**Rapid dApp development framework**
+- High-level abstractions and macros
+- Automatic account validation
+- TypeScript client generation
+- Comprehensive testing framework
+- Production deployment workflows
+
+### 9. NFTs and Metaplex (`9-NFTsAndMetaplex/`)
+**Digital asset creation and management**
+- NFT minting and metadata standards
+- Metaplex Protocol ecosystem
+- Marketplace development
+- Dynamic and evolving NFTs
+- Creator economics and royalties
+
+### 10. Advanced DeFi (`10-AdvancedDeFi/`)
+**Complex financial protocols**
+- Lending and borrowing protocols
+- Yield farming and liquidity mining
+- Options and derivatives
+- Flash loans and arbitrage
+- Cross-chain DeFi integration
+
+### 11. Security & Auditing (`11-SecurityAndAuditing/`)
+**Production-grade security**
+- Common vulnerability patterns
+- Security auditing methodologies
+- Formal verification techniques
+- Penetration testing
+- Incident response procedures
+
+### 12. Production Deployment (`12-ProductionDeployment/`)
+**Enterprise deployment strategies**
+- CI/CD pipeline setup
+- Monitoring and observability
+- Performance optimization
+- Scaling strategies
+- Maintenance and upgrades
 - Yield farming basics
 
 ### 6. Advanced Topics (`6-Advanced/`)
