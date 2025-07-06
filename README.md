@@ -175,7 +175,7 @@ Focus on scalable, high-performance blockchain systems.
 - ✅ **Polkadot Mastery**: Complete (8 modules)
 - ✅ **Cosmos Mastery**: Complete (8 modules)
 - ✅ **Solana Mastery**: Complete (12 modules)
-- ✅ **ZK-Proofs Mastery**: Complete (4 modules)
+- ✅ **ZK-Proofs Mastery**: Complete (8 modules)
 - ✅ **MEV Mastery**: Complete (7 modules)
 
 ## 🌟 Special Features
